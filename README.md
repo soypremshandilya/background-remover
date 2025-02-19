@@ -31,9 +31,6 @@ python background_remover.py
 3. Click **Remove Background** to process the image.
 4. The background-removed image will be saved as a transparent PNG in the same directory.
 
-## Screenshot
-![Background Remover GUI](screenshot.png) *(Add a screenshot of your app here)*
-
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements.
 
